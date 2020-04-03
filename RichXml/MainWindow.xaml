@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Rich XML" Height="450" Width="800">
     <Grid>
-
+        <RichTextBox x:Name="docBox" />
     </Grid>
 </Window>
